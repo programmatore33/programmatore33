@@ -2,9 +2,9 @@
 
 Ciao! Sono **Enzo Schettino**, sviluppatore full‑stack con oltre 15 anni di esperienza.  
 
-![Laravel](https://img.shields.io/badge/Laravel-❤️-red?style=flat-square)
-![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square)
-![Forza Napoli](https://img.shields.io/badge/Forza-Napoli-blue?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-❤️-red?style=flat-square&logo=laravel)
+![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square&logo=vue.js)
+![PHP](https://img.shields.io/badge/PHP-7.4+-8892be?style=flat-square&logo=php)
 
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
 
