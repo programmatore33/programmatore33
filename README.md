@@ -1,7 +1,6 @@
-# 🧠 Enzo Schettino – Full‑Stack Developer & Tifoso del Napoli
+# 🧠 Enzo Schettino – Full‑Stack Developer
 
 Ciao! Sono **Enzo Schettino**, sviluppatore full‑stack con oltre 15 anni di esperienza.  
-Tifoso sfegatato del Napoli ⚽, e appassionato di codice d'effetto.
 
 ![Laravel](https://img.shields.io/badge/Laravel-❤️-red?style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square)
@@ -47,9 +46,9 @@ Basato sul mio sito:
 
 ## 📫 Contatti
 
-[![Sito](https://img.shields.io/badge/Sito-web-0d1117?style=flat&logo=google-chrome&logoColor=white)](https://enzoschettino.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_Schettino-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/enzo-schettino-dev/)
-[![Email](https://img.shields.io/badge/Email-enzo@schettino.dev-informational?style=flat&logo=gmail)](mailto:enzo@schettino.dev)
+- 🌐 **Sito personale**: [enzoschettino.it](https://enzoschettino.it)
+- 💼 **LinkedIn**: [linkedin.com/in/enzo-schettino-dev](https://www.linkedin.com/in/enzo-schettino-dev/)
+- 📬 **Email**: enzo@schettino.dev
 
 ---
 
