@@ -43,7 +43,7 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 ## 📫 Contacts
 
 - 🌐 **Website**: [enzoschettino.it](https://enzoschettino.it)  
-- 💼 **LinkedIn**: [linkedin.com/in/enzo-schettino-dev](https://www.linkedin.com/in/enzo-schettino-dev/)  
+- 💼 **LinkedIn**: [linkedin.com/in/enzo-schettino-dev](https://www.linkedin.com/in/enzoschettinoweb/)  
 - 📬 **Email**: enzo@schettino.dev
 
 ---
