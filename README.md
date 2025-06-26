@@ -6,8 +6,6 @@ Ciao! Sono **Enzo Schettino**, sviluppatore full‑stack con oltre 15 anni di es
 ![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square&logo=vue.js)
 ![PHP](https://img.shields.io/badge/PHP-7.4+-8892be?style=flat-square&logo=php)
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
-
 ---
 
 ## 🧰 Il mio stack
