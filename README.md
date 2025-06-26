@@ -47,8 +47,9 @@ Basato sul mio sito:
 
 ## 📫 Contatti
 
-- **Email**: enzo@schettino.dev  
-- **LinkedIn**: [LinkedIn di Enzo Schettino]  
+[![Sito](https://img.shields.io/badge/Sito-web-0d1117?style=flat&logo=google-chrome&logoColor=white)](https://enzoschettino.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_Schettino-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/enzo-schettino-dev/)
+[![Email](https://img.shields.io/badge/Email-enzo@schettino.dev-informational?style=flat&logo=gmail)](mailto:enzo@schettino.dev)
 
 ---
 
