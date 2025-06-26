@@ -16,7 +16,7 @@ Basato sul mio sito:
 - **Frontend**: Vue.js 💚  
 - **DevOps**: Docker, GitHub Actions  
 - **Database**: MySQL / PostgreSQL  
-- Focus su **integrazione di e-commerce** e **software su misura** :contentReference[oaicite:1]{index=1}
+- Focus su **integrazione e-commerce** e **software su misura**
 
 ---
 
