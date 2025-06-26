@@ -10,8 +10,6 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 
 ## 🧰 My Tech Stack
 
-Based on my personal website:
-
 - **Backend**: PHP with Laravel 🐘  
 - **Frontend**: Vue.js 💚  
 - **DevOps**: Docker, GitHub Actions  
