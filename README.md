@@ -1,6 +1,6 @@
 # 🧠 Enzo Schettino – Full‑Stack Developer
 
-Ciao! Sono **Enzo Schettino**, sviluppatore full‑stack con oltre 15 anni di esperienza.  
+Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years of experience.  
 
 ![Laravel](https://img.shields.io/badge/Laravel-❤️-red?style=flat-square&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square&logo=vue.js)
@@ -8,51 +8,51 @@ Ciao! Sono **Enzo Schettino**, sviluppatore full‑stack con oltre 15 anni di es
 
 ---
 
-## 🧰 Il mio stack
+## 🧰 My Tech Stack
 
-Basato sul mio sito:
+Based on my personal website:
 
-- **Backend**: PHP con Laravel 🐘  
+- **Backend**: PHP with Laravel 🐘  
 - **Frontend**: Vue.js 💚  
 - **DevOps**: Docker, GitHub Actions  
-- **Database**: MySQL / PostgreSQL  
-- Focus su **integrazione e-commerce** e **software su misura**
+- **Databases**: MySQL / PostgreSQL  
+- Focused on **e-commerce integrations** and **custom software development**
 
 ---
 
-## 🍕 Le mie “PR”
+## 🍕 My kind of “PRs”
 
-(Mai chiamate Pull Request – le mie sono…)
+(Definitely not Pull Requests. Mine are more... southern.)
 
-- **PR = Pizza Request**: issue aperte solo dopo le 21 con mozzarella di bufala  
-- **PR = Partenopean Refactoring**: ottimizzazioni condite a 4–3–3  
-- **PR = Personalità Ridondante**: ogni repo ha un file inutile *ma* bellissimo
-
----
-
-## ✨ Progetti “inventati ma forti”
-
-| Progetto           | Descrizione                                                       | Stato         |
-|--------------------|-------------------------------------------------------------------|---------------|
-| `codex-espresso`   | API REST per ordinare caffè da terminale                          | ☕ in sogno    |
-| `termi-nator`      | Wrapper CLI con risposte in stile Arnold                          | 🔫 concept    |
-| `async-adventures` | Libro interattivo su async/await stronzate RPG-style              | 📚 wishlisted |
-
-> Finti, ma se qualcuno li realizza… stellina assicurata!
+- **PR = Pizza Request**: opened only after 9 PM, with mozzarella di bufala  
+- **PR = Partenopean Refactoring**: code optimizations shaped like a 4–3–3 formation  
+- **PR = Personalità Ridondante**: each repo has at least one useless — but beautiful — file
 
 ---
 
-## 📫 Contatti
+## ✨ “Fake but fantastic” Projects
 
-- 🌐 **Sito personale**: [enzoschettino.it](https://enzoschettino.it)
-- 💼 **LinkedIn**: [linkedin.com/in/enzo-schettino-dev](https://www.linkedin.com/in/enzo-schettino-dev/)
+| Project            | Description                                                       | Status         |
+|--------------------|-------------------------------------------------------------------|----------------|
+| `codex-espresso`   | REST API to order coffee from the terminal                        | ☕ in dreamland |
+| `termi-nator`      | CLI wrapper that talks like Arnold Schwarzenegger                 | 🔫 concept      |
+| `async-adventures` | Interactive book on async/await – RPG meets JavaScript            | 📚 wishlisted   |
+
+> Totally made-up. But if someone builds them, I swear I’ll give them a star.
+
+---
+
+## 📫 Contacts
+
+- 🌐 **Website**: [enzoschettino.it](https://enzoschettino.it)  
+- 💼 **LinkedIn**: [linkedin.com/in/enzo-schettino-dev](https://www.linkedin.com/in/enzo-schettino-dev/)  
 - 📬 **Email**: enzo@schettino.dev
 
 ---
 
-## 🔵 Sempre Forza Napoli
+## 🔵 Forza Napoli Sempre
 
-Nel terminale come nella vita:
+In the terminal, as in life:
 
 ```bash
-sudo apt install determinazione && echo "Forza Napoli Sempre 💙"
+sudo apt install determination && echo "Forza Napoli Sempre 💙"
