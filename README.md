@@ -34,7 +34,7 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 |---------------------|----------------------------------------------------------------------------------------------|----------------|
 | `codex-espresso`    | REST API to order coffee from the terminal                                                   | ☕ in dreamland |
 | `termi-nator`       | CLI wrapper that talks like Arnold Schwarzenegger                                            | 🔫 concept      |
-| `napoli-champs-cli` | A terminal app that proudly displays all the years Napoli won the Serie A championship 🏆     | 💙 working-ish  |
+| `napoli-champs-cli` | A terminal app that proudly returns the exact dates Napoli won the Serie A championship 🏆    | 💙 working-ish  |
 
 > Totally made-up. But if someone builds them, I swear I’ll give them a star.
 
@@ -43,14 +43,14 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 ### 🖥️ Sample Output
 
 ```bash
-$ napoli-champs-cli --list
+$ napoli-champs-cli --dates
 
-🏆 SSC Napoli – Serie A Champions 🏆
+🏆 SSC Napoli – Serie A Victory Dates 🏆
 
-- 1986/87
-- 1989/90
-- 2022/23
-- 2024/25
+- 10 May 1987
+- 29 April 1990
+- 4 May 2023
+- 23 May 2025
 
 💙 Forza Napoli Sempre 💙
 ```
@@ -62,13 +62,3 @@ $ napoli-champs-cli --list
 - 🌐 **Website**: [enzoschettino.it](https://enzoschettino.it)  
 - 💼 **LinkedIn**: [linkedin.com/in/enzoschettinoweb](https://www.linkedin.com/in/enzoschettinoweb/)  
 - 📬 **Email**: enzo@schettino.dev
-
----
-
-## 🔵 Forza Napoli Sempre
-
-In the terminal, as in life:
-
-```bash
-sudo apt install determination && echo "Forza Napoli Sempre 💙"
-```
