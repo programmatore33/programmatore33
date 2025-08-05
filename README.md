@@ -30,17 +30,17 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 
 ## ✨ “Fake but fantastic” Projects
 
-| Project             | Description                                                                                  | Status          |
-|---------------------|----------------------------------------------------------------------------------------------|---------------- |
-| `codex-espresso`    | REST API to order coffee from the terminal                                                   | ☕ in dreamland  |
+| Project             | Description                                                                                  | Status         |
+|---------------------|----------------------------------------------------------------------------------------------|----------------|
+| `codex-espresso`    | REST API to order coffee from the terminal                                                   | ☕ in dreamland |
 | `termi-nator`       | CLI wrapper that talks like Arnold Schwarzenegger                                            | 🔫 concept      |
-| `napoli-champs-cli` | A terminal app that proudly displays all the years Napoli won the Serie A championship 🏆    | 💙 working-ish  |
+| `napoli-champs-cli` | A terminal app that proudly displays all the years Napoli won the Serie A championship 🏆     | 💙 working-ish  |
 
 > Totally made-up. But if someone builds them, I swear I’ll give them a star.
 
 ---
 
-## 🖥️ Sample Output
+### 🖥️ Sample Output
 
 ```bash
 $ napoli-champs-cli --list
@@ -51,6 +51,9 @@ $ napoli-champs-cli --list
 - 1989/90
 - 2022/23
 - 2024/25
+
+💙 Forza Napoli Sempre 💙
+```
 
 ---
 
@@ -68,3 +71,4 @@ In the terminal, as in life:
 
 ```bash
 sudo apt install determination && echo "Forza Napoli Sempre 💙"
+```
