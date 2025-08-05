@@ -40,7 +40,7 @@ Hi there! I’m **Enzo Schettino**, a full‑stack developer with over 15 years 
 
 ---
 
-### 🖥️ Sample Output
+## 🖥️ Sample Output
 
 ```bash
 $ napoli-champs-cli --list
