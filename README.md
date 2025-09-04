@@ -2,7 +2,7 @@
 Hi there! I'm **Enzo Schettino**, a full‑stack developer with over 15 years of experience.  
 ![Laravel](https://img.shields.io/badge/Laravel-❤️-red?style=flat-square&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue.js-💚-42b883?style=flat-square&logo=vue.js)
-![PHP](https://img.shields.io/badge/PHP-7.4+-8892be?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/PHP-8+-8892be?style=flat-square&logo=php)
 ---
 ## 🧰 My Tech Stack
 - **Backend**: PHP with Laravel 🐘  
