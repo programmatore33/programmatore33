@@ -42,4 +42,4 @@ $ napoli-champs-cli --dates
 ## 📫 Contacts
 - 🌐 **Website**: [enzoschettino.it](https://enzoschettino.it)  
 - 💼 **LinkedIn**: [linkedin.com/in/enzoschettinoweb](https://www.linkedin.com/in/enzoschettinoweb/)  
-- 📬 **Email**: enzo@schettino.dev
+- 📬 **Email**: info@enzoschettino.dev
